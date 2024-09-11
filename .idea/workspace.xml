@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2c3046-9b02-4d5e-9719-93291681a247" name="Changes" comment="" />
+    <list default="true" id="9e2c3046-9b02-4d5e-9719-93291681a247" name="Changes" comment="Agrega carpetas excluidas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1726084017840</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agrega carpetas excluidas">
+      <created>1726088929901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726088929901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agrega carpetas excluidas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega carpetas excluidas" />
   </component>
 </project>
