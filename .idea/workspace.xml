@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2c3046-9b02-4d5e-9719-93291681a247" name="Changes" comment="Agrega carpetas excluidas" />
+    <list default="true" id="9e2c3046-9b02-4d5e-9719-93291681a247" name="Changes" comment="Agrega carpetas excluidas">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Diseño de Software/sistemaEducativo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -90,11 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1726088929901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arregla errores">
+      <created>1726090714697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726090714697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agrega carpetas excluidas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega carpetas excluidas" />
+    <MESSAGE value="Arregla errores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arregla errores" />
   </component>
 </project>
